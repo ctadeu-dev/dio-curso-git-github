@@ -1,28 +1,29 @@
 <h1>
-    <a href="https://www.dio.me/">
+    <!-- a href="https://www.dio.me/" -->
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Versionamento de Código com Git e GitHub</span>
+    <span> Git e GitHub - Versionamento de Código</span>
 </h1>
 
-Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
+Com finalidade educativa, foi desenvolvido este tutorial
+A disponibilização de materiais de apoio para o curso está no link: **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
 
-## Objetivo
-Introduzir ao versionamento de código com Git e GitHub.
+## Finalidade
+Tutorial introdutório de versionamento de código com Git e GitHub.
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
 
-## Percurso
+## Passos do aprendizado
 <table>
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Etapas</th>
+      <th>Etapa</th>
       <th>Materiais de Apoio</th>
     </tr>
   </thead>
@@ -67,18 +68,18 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
+## Alterando para aprendizado do Markdown
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
+      <!-- img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/ -->
     </td>
     <td align="left">
-      <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
+      <a href="https://github.com/ctadeu-dev" >
+        <span><b>Tentando modificar de maneira correta</b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Desenvolvedor Back-end</span>
     </td>
   </tr>
 </table>
@@ -92,5 +93,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [GITHUB BLOG. Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 - [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+## FIM
