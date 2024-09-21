@@ -1,6 +1,5 @@
-<img width=100% style="padding: 0px; margin: 0; height: 90px; border: 0px solid red;" src="https://capsule-render.vercel.app/api?type=waving&color=D0D0D0&height=120&section=header&text=CLÁUDIO TADEU DOS SANTOS&fontSize=20&fontColor=000000&animation=&fontAlignY=20"/>
 <hr/>
-####EM EDIÇÃO
+## EM EDIÇÃO
 <hr/>
 ###Objetivo:
 -	Analista de sistemas
