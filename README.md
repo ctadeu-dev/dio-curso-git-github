@@ -17,7 +17,7 @@
 -	Facilidade de adaptação a novos ambientes;
 -	Busca de novas tecnologias e conhecimento.
 
-## Linguagens / Ferramentas programação:
+## Linguagens / Ferramentas:
 -	Java: Web, WebServices SOAP/REST (on-premises)
 -	Listener WAS com inrtegração IBM MQ Series;
 -	JavaScript (intermediário)
@@ -31,7 +31,7 @@
 -	Git / Github  (em aprendizado)
 -	Databricks / Datalakes / Spark (em aprendizado)
 
-## Banco de dados (programação):
+## Banco de dados:
 -	SQL Server (2000 / 2008R2)
 -	Oracle 7 / 8i
 -	MySQL / Maria DB / Postgree
